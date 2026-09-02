@@ -9,3 +9,5 @@ flutter build web --release --dart-define=USE_MOCK=true --base-href /deeply-app-
 
 Live: https://yehordesign.github.io/deeply-app-preview/
 Login: any email + any password of 4+ characters, or continue as guest.
+
+Live build (real API on Railway, demo login demo@thedeeply.app / Deeply123!): https://yehordesign.github.io/deeply-app-preview/live/
